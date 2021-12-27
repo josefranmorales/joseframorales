@@ -30,16 +30,16 @@ Computer Engineer graduated from Jose Antonio Paez University, with more 20 year
 
 
 ## Back-End Skills:
-✓ Programmer Python, Javascript
-✓ Frameworks like Django, Flask, DRF.
-✓ Integration with Heroku, AWS, Digital Ocean
-✓ Databases: MySQL, Postgres, SQLite, MongoDB.
+✓ Programmer Python, Javascript<br />
+✓ Frameworks like Django, Flask, DRF.<br />
+✓ Integration with Heroku, AWS, Digital Ocean<br />
+✓ Databases: MySQL, Postgres, SQLite, MongoDB.<br />
 ✓ Docker
 
 ## Front-End Skills: 
-✓ JavaScript. Pure and others: Vuejs, AngularJS, jQuery, Nodejs, 
-✓ HTML5, Bootstrap, Material UI
-✓ CSS: Less, Sass, Stylus.
-✓ Versioning Control: Git control de versiones (GitLab, Github)
-✓ Hybrid Aplications: React Native.
+✓ JavaScript. Pure and others: Vuejs, AngularJS, jQuery, Nodejs, <br />
+✓ HTML5, Bootstrap, Material UI<br />
+✓ CSS: Less, Sass, Stylus.<br />
+✓ Versioning Control: Git control de versiones (GitLab, Github)<br />
+✓ Hybrid Aplications: React Native.<br />
 
