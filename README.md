@@ -1,4 +1,4 @@
-<img src="https://github.com/josefranmorales/joseframorales/blob/master/img/name.svg" width="100%">
+<img src="https://media.giphy.com/media/GVEbC0v1NyMlmBuvuD/giphy.gif" width="100%">
 
 ### Hi, I'm <a href="https://www.josefrancisco.ml">Francisco Morales</a> 👋🏼👨🏻‍💻
 
